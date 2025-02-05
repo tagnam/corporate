@@ -1,0 +1,5 @@
+@keyframes boxmove{
+    50% {
+        transform: translateX(-20%);
+    }
+}
