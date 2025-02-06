@@ -383,10 +383,9 @@ transition: transform 1s linear, -webkit-transform 1s linear;
 
 
 .counter{
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: space-evenly;
+
 }
     
+"
 
 /* <!--================================================= end  counter  section ==========================--> */

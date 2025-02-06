@@ -382,11 +382,10 @@ transition: transform 1s linear, -webkit-transform 1s linear;
 }
 
 
-.counter{
+.counter" style="
     display: flex;
     flex-wrap: nowrap;
-    justify-content: space-evenly;
-}
-    
+    justify-content: center;
+"
 
 /* <!--================================================= end  counter  section ==========================--> */

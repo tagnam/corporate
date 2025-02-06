@@ -381,12 +381,4 @@ transition: transform 1s linear, -webkit-transform 1s linear;
     background-repeat: no-repeat;
 }
 
-
-.counter{
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: space-evenly;
-}
-    
-
 /* <!--================================================= end  counter  section ==========================--> */
