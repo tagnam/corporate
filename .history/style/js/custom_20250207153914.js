@@ -22,7 +22,7 @@ $(document).ready(function(){
         {
           breakpoint: 768, // For screens 768px and below
           settings: {
-            slidesToShow: 1,
+            slidesToShow: 2,
             slidesToScroll: 1,
             arrows: false // Hide arrows on smaller screens
           }
@@ -48,7 +48,7 @@ $(document).ready(function(){
       arrows: true,          
       infinite: true,      
       speed: 500,           
-      slidesToShow: 2,       
+      slidesToShow: 1,       
       slidesToScroll: 1,
       responsive: [
         {

@@ -15,10 +15,8 @@
 
 /* Large devices (desktops) */
 @media (min-width: 993px) and (max-width: 1200px) { 
-
+    
 }
 
 /* Extra large devices (large desktops) */
-@media (min-width: 1201px) {
-    
- }
+@media (min-width: 1201px) { ... }

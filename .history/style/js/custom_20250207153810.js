@@ -22,7 +22,7 @@ $(document).ready(function(){
         {
           breakpoint: 768, // For screens 768px and below
           settings: {
-            slidesToShow: 1,
+            slidesToShow: 2,
             slidesToScroll: 1,
             arrows: false // Hide arrows on smaller screens
           }
@@ -50,33 +50,7 @@ $(document).ready(function(){
       speed: 500,           
       slidesToShow: 2,       
       slidesToScroll: 1,
-      responsive: [
-        {
-          breakpoint: 1024, // For screens 1024px and below
-          settings: {
-            slidesToShow: 3,
-            slidesToScroll: 1,
-            infinite: true,
-            arrows: true
-          }
-        },
-        {
-          breakpoint: 768, // For screens 768px and below
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            arrows: false // Hide arrows on smaller screens
-          }
-        },
-        {
-          breakpoint: 480, // For screens 480px and below
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            arrows: false
-          }
-        }
-      ]     
+           
     });
   });
 
