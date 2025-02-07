@@ -459,12 +459,5 @@ textarea{
 input:focus-visible {
     outline-offset: unset !important;
 }
-
-.star-img {
-    width: 150px;
-    position: absolute;
-    left: 10%;
-    
-    animation: star 5s linear infinite;
-}
+  
 /* <!--================================================= end  contact section ==========================--> */

@@ -463,8 +463,8 @@ input:focus-visible {
 .star-img {
     width: 150px;
     position: absolute;
-    left: 10%;
-    
+    left: 30px;
+    animation:star;
     animation: star 5s linear infinite;
 }
 /* <!--================================================= end  contact section ==========================--> */
