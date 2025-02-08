@@ -23,36 +23,17 @@ section{
 }
 
 
-/* <!--======================================= start navigation bar  ===================================--> */
-
-
-
-/* <!--======================================= end navigation bar  ===================================--> */
-
-
-
-.testimonial-slider-container .slick-prev:before {
+.testimonial-slider-container .slick-prev:before, .slick-next:before {
     font-family: 'slick';
     font-size: 50px !important;
     line-height: 1;
     opacity: .75;
-    color: #d1000042 !important;
+    color: #d10000 !important;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 
-.testimonial-slider-container .slick-next:before {
-    font-family: 'slick';
-    font-size: 50px !important;
-    line-height: 1;
-    opacity: .75;
-    color: #d1000042 !important;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
-
-
-.testimonial-slider-container .slick-prev {
+.slick-prev {
     left: -70px;
 }
 /* <!-- =============================== start banner section  ===================================--> */

@@ -23,38 +23,6 @@ section{
 }
 
 
-/* <!--======================================= start navigation bar  ===================================--> */
-
-
-
-/* <!--======================================= end navigation bar  ===================================--> */
-
-
-
-.testimonial-slider-container .slick-prev:before {
-    font-family: 'slick';
-    font-size: 50px !important;
-    line-height: 1;
-    opacity: .75;
-    color: #d1000042 !important;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
-
-.testimonial-slider-container .slick-next:before {
-    font-family: 'slick';
-    font-size: 50px !important;
-    line-height: 1;
-    opacity: .75;
-    color: #d1000042 !important;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
-
-
-.testimonial-slider-container .slick-prev {
-    left: -70px;
-}
 /* <!-- =============================== start banner section  ===================================--> */
 
 
@@ -306,7 +274,7 @@ background-size: cover;
 
 
 .marquee img{
-    margin: 10px 10px;
+    ma
 }
 
 /* <!--================================================= end client-slider  section ==========================--> */

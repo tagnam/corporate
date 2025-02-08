@@ -23,14 +23,6 @@ section{
 }
 
 
-/* <!--======================================= start navigation bar  ===================================--> */
-
-
-
-/* <!--======================================= end navigation bar  ===================================--> */
-
-
-
 .testimonial-slider-container .slick-prev:before {
     font-family: 'slick';
     font-size: 50px !important;
@@ -46,7 +38,7 @@ section{
     font-size: 50px !important;
     line-height: 1;
     opacity: .75;
-    color: #d1000042 !important;
+    color: #d1000073 !important;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
