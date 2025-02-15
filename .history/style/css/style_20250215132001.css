@@ -613,20 +613,14 @@ input:focus-visible {
 .mission-card:hover .m-icon{
     transform: rotateY(180deg);
 }
-
-.vission-card:hover .m-icon{
-    transform: rotateY(180deg);
-}
 .mission-icon{
     display: flex;
-    
 
 }
 .mission-icon .bi{
     font-size: 45px;
     color: #fff;
     display: flex;
-    transition: transform 0.5s ease;
 }
 
 .mission-content{
