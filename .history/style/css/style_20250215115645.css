@@ -67,9 +67,7 @@ section{
     font-weight: 800;
 }
 
-.inner-heading span{
-    color: var(--secondary-color);
-}
+
 
 .custom-btn:hover,
 .custom-btn:focus { 

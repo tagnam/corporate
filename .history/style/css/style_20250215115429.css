@@ -60,17 +60,6 @@ section{
     padding: 100px 0px;
 }
 
-.inner-heading{
-    font-size: 60px;
-    text-align: center;
-    margin: 100px 0px;
-    font-weight: 800;
-}
-
-.inner-heading span{
-    color: var(--secondary-color);
-}
-
 .custom-btn:hover,
 .custom-btn:focus { 
   background-color: #16437E;
