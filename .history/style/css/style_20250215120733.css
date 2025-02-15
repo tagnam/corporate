@@ -594,48 +594,9 @@ input:focus-visible {
 
 
 /* <!--================================================= start  about  section ==========================--> */
-.mission-vission-container{
-    background-image: url(/images/bg-violet-gradient.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    padding: 50px 100px;
-    border-radius: 20px;
+.mission-visson-section{
+    
 }
 
-.mission-card, .vission-card{
-    padding: 10px 10px;
-    border: 1px solid;
-    border-radius: 10px;
-    box-shadow: 5px 5px 10px -8px;
-    margin: 15px 0px;
-}
-.mission-icon{
-    display: flex;
 
-}
-.mission-icon .bi{
-    font-size: 45px;
-    color: #fff;
-    display: flex;
-}
-
-.mission-content{
-    display: flex;
-        align-items: center;
-}
-.mission-content h4{
-    margin-bottom: unset;
-    font-size: 30px;
-    text-transform: capitalize;
-    font-weight: 600;
-}
-
-.mission-vision-card{
-    padding: 0px 10px;
-}
-
-.mission-text{
-    font-size: 18px;
-    margin: 10px 0px;
-}
 /* <!--================================================= end  about section ==========================--> */

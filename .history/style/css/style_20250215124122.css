@@ -602,12 +602,12 @@ input:focus-visible {
     border-radius: 20px;
 }
 
-.mission-card, .vission-card{
+.mission-card{
+ 
     padding: 10px 10px;
     border: 1px solid;
     border-radius: 10px;
-    box-shadow: 5px 5px 10px -8px;
-    margin: 15px 0px;
+background-image:
 }
 .mission-icon{
     display: flex;

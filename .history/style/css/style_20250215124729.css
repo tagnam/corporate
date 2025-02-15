@@ -603,11 +603,16 @@ input:focus-visible {
 }
 
 .mission-card, .vission-card{
+ 
     padding: 10px 10px;
     border: 1px solid;
     border-radius: 10px;
-    box-shadow: 5px 5px 10px -8px;
+    /* background-image: url(/images/mission-vision-item-bg.svg); */
+    /* background-size: cover; */
+    /* backdrop-filter: drop-shadow(18px 23px 13px black); */
+    box-shadow: 11px 15px 15px -8px;
     margin: 15px 0px;
+
 }
 .mission-icon{
     display: flex;

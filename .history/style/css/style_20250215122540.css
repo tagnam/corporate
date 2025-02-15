@@ -602,13 +602,6 @@ input:focus-visible {
     border-radius: 20px;
 }
 
-.mission-card, .vission-card{
-    padding: 10px 10px;
-    border: 1px solid;
-    border-radius: 10px;
-    box-shadow: 5px 5px 10px -8px;
-    margin: 15px 0px;
-}
 .mission-icon{
     display: flex;
 
@@ -623,19 +616,5 @@ input:focus-visible {
     display: flex;
         align-items: center;
 }
-.mission-content h4{
-    margin-bottom: unset;
-    font-size: 30px;
-    text-transform: capitalize;
-    font-weight: 600;
-}
-
-.mission-vision-card{
-    padding: 0px 10px;
-}
-
-.mission-text{
-    font-size: 18px;
-    margin: 10px 0px;
-}
+.mission-content 
 /* <!--================================================= end  about section ==========================--> */
