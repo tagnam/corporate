@@ -92,11 +92,17 @@ section{
 
 
 /* <!--======================================= start navigation bar  ===================================--> */
-
+/* 
+.custom-nav-bar-container{
+    position: relative;
+} */
 .custom-nav-menu{
     width: 100%;
     display: flex;
     justify-content: center;
+
+            /* box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px; */
+
     
 }
 
@@ -104,6 +110,7 @@ section{
     border: 1px solid #00000061;
     border-radius: 31px;
     padding: 5px 20px;
+
 }
 
 
@@ -116,6 +123,60 @@ section{
     font-weight: 400;
 }
 
+
+/* <!-- start mega menu section --> */
+    .mega-menu{
+        position: absolute;
+        z-index: 99;
+        width: 80vw;
+        right: 0;
+        border-radius: 20px;
+        border: 1px solid;
+        top: 56px;
+        background-color: #fff;
+        padding: 15px;
+        left: 0;
+        transform: translate(-50%, 0px);
+       
+        visibility: hidden; 
+        opacity: 0;
+        transition: ease-in-out 0.8s;
+    }
+
+    .mega-mnu-img{
+        border-radius: 15px;
+    }
+
+    .mega-menu-list{
+        list-style: unset;
+    padding: unset;
+    }
+
+    .mega-menu-list-item{
+        margin-bottom: 10px;
+    }
+    .mega-menu-link{
+        text-decoration: none;
+        font-size: 18px;
+        color: #000;
+        display: flex    ;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+    span .bi-check-circle{
+        font-size: 20px;
+        margin: 0px 10px;
+    }
+
+    .service-menu:hover .mega-menu{
+        visibility: visible !important;
+        opacity: 5;
+        z-index: 9;
+        box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    }
+/* <!-- end mega menu section --> */
 
 /* <!--======================================= end navigation bar  ===================================--> */
 
