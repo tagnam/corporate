@@ -340,7 +340,7 @@ section{
     border: 5px solid #fff;
 }
 .about-left, .about-right{
-    padding: 0px 40px;
+    pa
 }
 
 .A-image01{
@@ -348,8 +348,8 @@ section{
 }
 
 .A-image02{
-    margin-top: -130px;
-    margin-left: 80px;
+    margin-top: -80px;
+    margin-left: 105px;
 }
 
 
